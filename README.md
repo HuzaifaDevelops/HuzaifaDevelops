@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-- 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [github.com/HuzaifaDevelops](github.com/HuzaifaDevelops)
 
