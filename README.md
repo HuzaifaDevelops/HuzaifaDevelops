@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Next js, React-Native**
 
-- 📫 How to reach me **contactHuzaifaa@gmail.com**
+- 📫 How to reach me **dev.huzaifaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
