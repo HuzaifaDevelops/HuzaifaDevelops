@@ -13,7 +13,6 @@
 - 🚀 ~3 years of experience building full-stack web and mobile apps, from backend design and integration to production releases
 - 👥 Led a team of 3 developers and mentored interns whose code now ships in production
 - 📱 3 mobile apps live on the Play Store and App Store
-- 🎓 Computer Science student at the University of Karachi
 - 💼 **Open to work and freelance projects** (remote-friendly)
 - 💬 Ask me about **React, Next.js, React Native, NestJS, Node.js, TypeScript, Angular, MERN**
 - 📫 Reach me at **[dev.huzaifaa@gmail.com](mailto:dev.huzaifaa@gmail.com)**
@@ -43,7 +42,7 @@
 
 | Project | What it is | Links |
 |---|---|---|
-| **OSquare ERP** | Microservices-based ERP with 500+ active users; I built multiple modules plus the mobile app | [Website](https://osquare.us/individual-leadkonnekt) |
+| **OSquare ERP** | Microservices-based ERP with 500+ active users; I built multiple modules plus the mobile app | [Website](https://osquare.us) |
 | **iSchool LMS** | Learning management system running across 5 campuses, with web and mobile apps, integrated with OSquare | [Website](https://ischool.pk/) |
 | **LeadKonnekt CRM** | CRM module of the OSquare ERP suite | [Website](https://osquare.us/individual-leadkonnekt) |
 | **ResQMesh** | Offline mesh-networking Android app for emergencies 
