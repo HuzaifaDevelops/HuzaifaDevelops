@@ -41,20 +41,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-> Add or remove icons so this only lists what you're comfortable being interviewed on.
-
 ## 🚀 Featured Work
 
 | Project | What it is | Links |
 |---|---|---|
-| **OSquare ERP** | Microservices-based ERP with 500+ active users; I built multiple modules plus the mobile app | [Website](YOUR_LINK) |
-| **iSchool LMS** | Learning management system running across 5 campuses, with web and mobile apps, integrated with OSquare | [Website](YOUR_LINK) |
+| **OSquare ERP** | Microservices-based ERP with 500+ active users; I built multiple modules plus the mobile app | [Website](https://osquare.us/individual-leadkonnekt) |
+| **iSchool LMS** | Learning management system running across 5 campuses, with web and mobile apps, integrated with OSquare | [Website](https://ischool.pk/) |
 | **LeadKonnekt CRM** | CRM module of the OSquare ERP suite | [Website](https://osquare.us/individual-leadkonnekt) |
-| **iTeam Lab** | React Native app plus website | [Link](YOUR_LINK) |
-| **Mobile apps** | 3 apps live on the stores | [Play Store](YOUR_LINK) · [App Store](YOUR_LINK) |
-| **ResQMesh** | Offline mesh-networking Android app for emergencies | [Repo](YOUR_REPO_LINK) |
-| **MediFlow** | Clinic management system | [Repo](YOUR_REPO_LINK) |
+| **ResQMesh** | Offline mesh-networking Android app for emergencies 
+| **MediFlow** | Clinic management system 
 
 ## 🤝 Let's connect
 
-I'm open to full-stack, frontend and mobile roles, and freelance projects. The best way to reach me is by email or LinkedIn.
+I'm open to full-stack, frontend, and mobile roles, and freelance projects. The best way to reach me is by email or LinkedIn.
